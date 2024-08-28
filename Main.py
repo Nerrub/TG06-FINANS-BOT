@@ -16,7 +16,7 @@ import aiohttp
 import logging
 import requests
 
-bot = Bot(token="7505360526:AAHQF-wTEqoaBbg7xLwYvOHUaSe2_dV9o44")
+bot = Bot(token="")
 dp = Dispatcher()
 
 logging.basicConfig(level=logging.INFO)
